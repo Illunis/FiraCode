@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file.
 
+#### 1.205 (February 27, 2018)
+
+- Slashed zero by default ([#481] [#342])
+- Adjusted vertical position of colon `:` near `{[()]}` ([#486])
+- Thin backslash except when in `\\`, removed `\\\` ([#536])
+- Added `:>` ([#547]) and `<:` ([#525])
+- Removed `=<` ([#479] [#468] [#424] [#406] [#355] [#305])
+- Added `::=` ([#539])
+- Added `[|` `|]` ([#516]) `{|` `|}` ([#330])
+- Added `✓` (U+2713)
+- Added `..=` ([#433])
+- Added `=!=` ([#338])
+- Added `|-` `-|` `_|_` and adjusted `|=` `||=` ([#494])
+- Added `#=` ([#208])
+
 #### 1.204 (November 6, 2016)
 
 - Added `U+25B6` (black right-pointing triangle) and `U+25C0` (black left-pointing triangle) ([#289])
